@@ -11,7 +11,7 @@ leftWristY = 0;
 function setup() {
     canvas = createCanvas(600, 500);
 canvas.center();
-canvas.position(750, 220)
+canvas.position(700, 220)
 
     video = createCapture(VIDEO);
     video.hide();
