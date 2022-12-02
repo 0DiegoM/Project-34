@@ -7,3 +7,9 @@ canvas {
     border-radius: 20px;
 }
 
+.buton {
+    width: 145px;
+    height: 40px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
